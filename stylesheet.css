@@ -1,0 +1,21 @@
+h1 { 
+ color:maroon;
+ margin-left:50px;
+ font-family:calibri;
+ }
+body {
+ background-color: linen;
+ }
+.para { 
+ color:slateblue;
+ margin-left:50px;
+ font-family:verdana;
+ }
+table, th, td {
+ border: 1px solid brown;
+ background-color: teal;
+ text-align: left;
+ margin-left: 40px;
+ padding: 35px;
+ spacing: 35px;
+}
